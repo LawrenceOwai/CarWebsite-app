@@ -3,7 +3,7 @@ import house2 from './images/house 2.jpeg';
 import house3 from './images/house 3.jpeg';
 import house4 from './images/house 4.jpeg';
 
-export const NEW_CONCEPT=[
+export const NEW_CONCEPT=[                  //this ia an array, after writting this i then imported it into app.js
     {
         Picture:house1,
         header: 'Mansion',
