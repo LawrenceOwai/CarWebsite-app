@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/CarWebsite-app/static/css/main.f0817e18.css",
+    "main.js": "/CarWebsite-app/static/js/main.a953747b.js",
+    "static/js/787.f6570a32.chunk.js": "/CarWebsite-app/static/js/787.f6570a32.chunk.js",
+    "static/media/BlackCar.jpeg": "/CarWebsite-app/static/media/BlackCar.8b3870bd7c55670baac6.jpeg",
+    "static/media/BlackCar2.jpeg": "/CarWebsite-app/static/media/BlackCar2.dd1217948afcb95d885c.jpeg",
+    "index.html": "/CarWebsite-app/index.html",
+    "main.f0817e18.css.map": "/CarWebsite-app/static/css/main.f0817e18.css.map",
+    "main.a953747b.js.map": "/CarWebsite-app/static/js/main.a953747b.js.map",
+    "787.f6570a32.chunk.js.map": "/CarWebsite-app/static/js/787.f6570a32.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0817e18.css",
+    "static/js/main.a953747b.js"
+  ]
+}
